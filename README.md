@@ -9,31 +9,28 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/paigupai&right_color=red" />
 </p>
 
-
-
 ### **Skills:**
 
-
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/flutter.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/swift.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/python.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/android.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/ios.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/macos.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/visualstudiocode.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/androidstudio.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/xcode.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/git.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/sqlite.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/realm.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/firebase.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gitlab.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gitpod.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/jira.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/confluence.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/mattermost.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/zenn.svg" />
+<code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/flutter.svg"/></code>
+<code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/swift.svg"/></code>
+<code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/python.svg"/></code>
+<code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/android.svg"/></code>
+<code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/ios.svg"/></code>
+<code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/macos.svg"/></code>
+<code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/visualstudiocode.svg"/></code>
+<code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/androidstudio.svg"/></code>
+<code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/xcode.svg"/></code>
+<code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/git.svg"/></code>
+<code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/sqlite.svg"/></code>
+<code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/realm.svg"/></code>
+<code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/firebase.svg"/></code>
+<code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg"/></code>
+<code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gitlab.svg"/></code>
+<code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gitpod.svg"/></code>
+<code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/jira.svg"/></code>
+<code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/confluence.svg"/></code>
+<code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/mattermost.svg"/></code>
+<code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/zenn.svg"/></code>
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=paigupai&show_icons=true&count_private=true)
