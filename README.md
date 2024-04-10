@@ -35,4 +35,5 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=paigupai&show_icons=true&count_private=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paigupai&layout=compact)
 
-[![paigupai's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=paigupai&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Github Activity Graph](https://github-readme-activity-graph-theta-six.vercel.app/graph?username=paigupai&theme=vue)
