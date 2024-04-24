@@ -10,14 +10,13 @@
 </p>
 
 ### **Skills:**
-<img src="https://github.com/paigupai/paigupai/assets/44311361/e3e7382b-5b4c-40fc-860a-88ba630d6b58" width="200">
-<img src="https://github.com/paigupai/paigupai/assets/44311361/0367f014-7e0a-4612-9a31-0c70c3ab0b64" width="200">
-<img src="https://github.com/paigupai/paigupai/assets/44311361/a927f33e-be1e-4638-bf46-19b92a370741" width="200">
-<img src="https://github.com/paigupai/paigupai/assets/44311361/1ed6e732-8306-4577-8600-b0a46b580c05" width="200">
-<img src="https://github.com/paigupai/paigupai/assets/44311361/43a9bcc7-5577-4d2b-bc9f-c5f29d8f7942" width="200">
-<img src="https://github.com/paigupai/paigupai/assets/44311361/06fc5c4c-a2b9-4a86-9242-f89b68b0b4e3" width="200">
-<img src="https://github.com/paigupai/paigupai/assets/44311361/6047c7a0-027b-4c23-90e9-5e6dd6bbac05" width="200">
-<img src="https://github.com/paigupai/paigupai/assets/44311361/7a38d278-dc82-4565-a036-53b05ea241eb" width="200">
+<img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Flutter/FlutterTransparent.png?raw=true" width="200"><img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Swift/Swift.png?raw=true" width="200">
+<img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Kotlin/Kotlin.png?raw=true" width="200">
+<img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Java/Java.png?raw=true" width="200">
+<img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Next.js/Next.js.png?raw=true" width="200">
+<img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Gitlab/Gitlab.png?raw=true" width="200">
+<img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Github/Github.png?raw=true" width="200">
+<img src="https://github.com/paigupai/paigupai/assets/44311361/38674d78-e278-41a2-b638-cfc827d9e9fc" width="200">
 
 <code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/xcode.svg"/></code>
 <code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/python.svg"/></code>
